@@ -1,0 +1,44 @@
+#main {
+    text-align: center;
+    font-size: 70px;
+    margin-top: 50px;
+    font-family:"Walbaum Display", dotum, helvetica, sans-serif;
+    /* color: blue */
+}
+
+
+h1{
+    text-align: center;
+    margin-top: 60px;
+
+}
+.search-bar{
+    width: 500px;
+}
+
+#contents{
+font-size: 30px;
+}
+
+#wrapper{
+    text-align: center;
+}
+
+body{
+    text-align: center;
+}
+body{
+    background-image: url(../images/background.png)
+}
+
+body{
+    background-repeat: no-repeat;
+}
+
+body{
+    background-size: cover;
+}
+
+body{
+    font-family:"티머니 둥근바람 Regular", dotum, helvetica, sans-serif;
+}
